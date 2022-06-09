@@ -1,5 +1,5 @@
-## Welcome to "Hello World" with GitHub Actions
+## 欢迎使用 GitHub Actions 使用“Hello World”
 
-This course will walk you through writing your first action and using it with a workflow file. 
+本课程将引导您编写第一个操作并将其与工作流文件一起使用。
 
-**Ready to get started? Navigate to the first issue.**
+**准备好开始了吗？导航到第一个问题。**
